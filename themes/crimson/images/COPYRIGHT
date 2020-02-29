@@ -1,0 +1,29 @@
+/*
+
+# Taskmaster
+
+This file is part of the Taskmaster project. Taskmaster is a simple task, project, and information tracking application.
+
+# Copyright
+
+Copyright 2013-2015 David Rodgers - <https://github.com/caressofsteel/taskmaster>
+Copyright 2012-2013 Alexander Reichardt - <https://github.com/alex-LE/yourTinyTodo>
+Copyright 2009-2010 Max Pozdeev - <https://github.com/maxpozdeev/mytinytodo>
+
+This project is distributed under the GNU General Public License. Please see the included COPYRIGHT and LICENSE-GPL3 for more information. Copyrights for portions of this file are retained by their owners.
+
+*/
+
+Image files page_white_text.png and calendar.png and some icons in buttons.png
+are (or based on) icons from Silk Icons set by Mark James (http://www.famfamfam.com/lab/icons/silk/),
+licensed under the Creative Commons Attribution 2.5 License (http://creativecommons.org/licenses/by/2.5/).
+
+Some icons in buttons.png are based on "Silk Companion 1" icons set by Damien Guard
+(http://damieng.com/creative/icons/silk-companion-1-icons), licensed under the
+ Creative Commons Attribution 2.5 License (http://creativecommons.org/licenses/by/2.5/).
+
+Icons in mzl.png are (or based on) icons from Mozilla Source Code,
+(http://www.mozilla.org/MPL/#source-code), licensed under the terms
+of tri-license (MPL 1.1/GPL 2.0/LGPL 2.1).
+
+Other images in this directory were made by Max Pozdeev and licensed under the terms of GNU GPL v3.
