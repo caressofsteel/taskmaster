@@ -46,8 +46,10 @@ This project is distributed under the GNU General Public License. Please see the
 ## Password protection
 
 ## Smart Syntax
-- Improves the creation of tasks
-- (usage: /priority/ Task /tags/)
+Improves the creation of tasks by allowing priority and tags to be specified in the task description
+- Example Task Entry: (/Priority/Task/Tags/)
+  - There must be a space at the end of the task title before /Tags/
+  - /-1/This is an example with a space at the end /tag1, tag2, tag3/
 
 ## Theme support
  - Multiple Color Themes
